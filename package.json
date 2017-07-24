@@ -23,7 +23,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "protractor": "git://github.com/consoleau/protractor.git#master",
+    "protractor": "git://github.com/consoleau/protractor.git#custom-5.1.2",
     "split": "~1.0.0",
     "through2": "~2.0.0"
   },
